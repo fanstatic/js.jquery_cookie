@@ -29,7 +29,7 @@ setup(
     keywords='',
     author='Fanstatic Developers',
     author_email='fanstatic@googlegroups.com',
-    license='BSD',
+    license='MIT',
     packages=find_packages(),namespace_packages=['js'],
     include_package_data=True,
     zip_safe=False,
